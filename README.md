@@ -24,8 +24,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: KISHORE B
+### Register Number: 23013723
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
